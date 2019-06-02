@@ -1,0 +1,50 @@
+
+@font-face {
+    font-family: 'Estedada';
+    src: url('Estedad/eot/Estedad-Thin.eot');
+    src: url('Estedad/eot/Estedad-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Estedad/woff/Estedad-Thin.woff') format('woff'),
+        url('Estedad/ttf/Estedad-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Estedada';
+    src: url('Estedad/eot/Estedad-Bold.eot');
+    src: url('Estedad/eot/Estedad-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Estedad/woff/Estedad-Bold.woff') format('woff'),
+        url('Estedad/ttf/Estedad-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Estedada';
+    src: url('Estedad/eot/Estedad-Black.eot');
+    src: url('Estedad/eot/Estedad-Black.eot?#iefix') format('embedded-opentype'),
+        url('Estedad/woff/Estedad-Black.woff') format('woff'),
+        url('Estedad/ttf/Estedad-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Estedada';
+    src: url('Estedad/eot/Estedad-Medium.eot');
+    src: url('Estedad/eot/Estedad-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Estedad/woff/Estedad-Medium.woff') format('woff'),
+        url('Estedad/ttf/Estedad-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Estedada';
+    src: url('Estedad/eot/Estedad-Light.eot');
+    src: url('Estedad/eot/Estedad-Light.eot?#iefix') format('embedded-opentype'),
+        url('Estedad/woff/Estedad-Light.woff') format('woff'),
+        url('Estedad/ttf/Estedad-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}

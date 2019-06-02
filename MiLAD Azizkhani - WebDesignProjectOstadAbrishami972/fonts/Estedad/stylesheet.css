@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Estedad';
+    src: url('Estedad-Thin.eot');
+    src: url('Estedad-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Estedad-Thin.woff') format('woff'),
+        url('Estedad-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Estedad';
+    src: url('Estedad-Bold.eot');
+    src: url('Estedad-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Estedad-Bold.woff') format('woff'),
+        url('Estedad-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Estedad';
+    src: url('Estedad-Black.eot');
+    src: url('Estedad-Black.eot?#iefix') format('embedded-opentype'),
+        url('Estedad-Black.woff') format('woff'),
+        url('Estedad-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Estedad';
+    src: url('Estedad-Medium.eot');
+    src: url('Estedad-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Estedad-Medium.woff') format('woff'),
+        url('Estedad-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Estedad';
+    src: url('Estedad-Light.eot');
+    src: url('Estedad-Light.eot?#iefix') format('embedded-opentype'),
+        url('Estedad-Light.woff') format('woff'),
+        url('Estedad-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
